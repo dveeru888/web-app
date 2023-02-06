@@ -33,9 +33,9 @@
   <dependencies>
 
     <dependency>
-    <groupId>org.makumba</groupId>
-    <artifactId>makumba</artifactId>
-    <version>0.8.2.7.2</version>
+      <groupId>org.makumba</groupId>
+      <artifactId>makumba</artifactId>
+      <version>0.8.2.7.2</version>
     </dependency>
     <dependency>
       <groupId>javax.servlet</groupId>
