@@ -31,15 +31,11 @@
 
 
   <dependencies>
+
     <dependency>
-      <groupId>org.makumba</groupId>
-      <artifactId>makumba</artifactId>
-      <version>[0.8.2.7.2,)</version>
-    </dependency>
-    <dependency>
-      <groupId>hsqldb</groupId>
-      <artifactId>hsqldb</artifactId>
-      <version>1.8.0.7</version>
+    <groupId>org.makumba</groupId>
+    <artifactId>makumba</artifactId>
+    <version>0.8.2.7.2</version>
     </dependency>
     <dependency>
       <groupId>javax.servlet</groupId>
